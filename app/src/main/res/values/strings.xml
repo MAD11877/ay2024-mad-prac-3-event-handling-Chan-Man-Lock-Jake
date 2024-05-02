@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Practical2</string>
+    <string name="main_title">MAD Practical</string>
+    <string name="main_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</string>
+    <string name="main_follow_button">FOLLOW</string>
+    <string name="main_message_button">MESSAGE</string>
+    <string name="list_title">Profile</string>
+</resources>
